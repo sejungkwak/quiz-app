@@ -27,3 +27,20 @@ Challenge from Brad Traversy & Florin Pop on Udemy '50 Projects in 50 Days'
 ---
 
 ## Takeaways from the instructor
+
+1. HTML
+
+- div instead of form
+- inside li, each choice has radio input + label for the text
+
+2. CSS
+
+- submit button: display: block
+
+3. JavaScript
+
+- reload button
+
+```
+<button onclick="location.reload"></button>
+```
